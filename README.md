@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KristiyanMG
-- 👀 I’m interested in Paython
-- 🌱 I’m currently learning Paython
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on many interesting projects
 - 📫 You can contact me via my personal instagram profile: @kristiyangeorgievv
 
